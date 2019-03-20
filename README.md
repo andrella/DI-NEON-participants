@@ -1,4 +1,5 @@
 Welcome to the DI-NEON-participants GitHub Repo!
+Ciao a tutti. 
 ===============================
 
 This repository is used to collect & share materials during the pre-institute 
